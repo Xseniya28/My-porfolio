@@ -8,8 +8,7 @@
 * 🧠  I'm learning SkyPro - QA ING
 ## Socials
 - Email: kseniyagaeckaya2.7.95@gmail.com
-  
--Telegram https://t.me/UsagiTsukino2
+- -Telegram https://t.me/UsagiTsukino2
 
 ## Skills
 - Баг трекинговая система  ``Jira``
