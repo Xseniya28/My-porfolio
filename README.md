@@ -8,8 +8,9 @@
 * 🧠  I'm learning SkyPro - QA ING
 ## Socials
 - Email: kseniyagaeckaya2.7.95@gmail.com
-- -Telegram https://t.me/UsagiTsukino2
+- -Telegram: https://t.me/UsagiTsukino2
 - HH.ru https://hh.ru/resume/ea2f3da4ff0c7d33130039ed1f6a59537a514a
+- mail: kseniyagaeckaya2.7.95@gmail.com
 
 ## Skills
 - Баг трекинговая система  ``Jira``
@@ -42,5 +43,3 @@
 >После изучения документации в Swagger была создана коллекция в Postman  с набором тестовых запросов покрывающих позитивные и негативные проверки новой функциональности. Так же были написаны тест скрипты для каждого запроса. Тест-ран был автоматизирован
 ><a href="https://2ko4lo4so7va.atlassian.net/wiki/spaces/~6408b937feb4b150c579ad22/overview">Ссылка на проект Курсовая работа2</a>
 
-## Socials
-- Email: kseniyagaeckaya2.7.95@gmail.com
