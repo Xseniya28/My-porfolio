@@ -9,6 +9,7 @@
 ## Socials
 - Email: kseniyagaeckaya2.7.95@gmail.com
 - -Telegram https://t.me/UsagiTsukino2
+- HH.ru https://hh.ru/resume/ea2f3da4ff0c7d33130039ed1f6a59537a514a
 
 ## Skills
 - Баг трекинговая система  ``Jira``
