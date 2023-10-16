@@ -11,9 +11,6 @@
 - -Telegram: https://t.me/UsagiTsukino2
 - HH.ru https://hh.ru/resume/ea2f3da4ff0c7d33130039ed1f6a59537a514a
 <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://hh.ru/resume/ea2f3da4ff0c7d33130039ed1f6a59537a514a" width="40" height="40" alt="HH.ru" />
-    </a>
     <a href="https://t.me/UsagiTsukino2" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
