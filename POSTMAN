@@ -1,0 +1,396 @@
+{
+	"id": "75a64516-e4ba-472c-982e-8cccdbebc0c9",
+	"name": "Курсовая работа 2-й курс",
+	"timestamp": "2023-08-01T17:13:53.537Z",
+	"collection_id": "28049734-3212772c-2169-4c4a-b53a-d5649d077b57",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "error",
+	"startedAt": "2023-08-01T17:13:46.889Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "816c6b97-e479-4b15-bb3e-870fb22efd5f",
+			"name": "Создание персонального события",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/createPersonal",
+			"time": 301,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				301
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f458eed6-9d40-4102-a64a-e82caa8a4bad",
+			"name": "Получение расписания",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/events",
+			"time": 879,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				879
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2ad07d06-667b-4b5d-b755-bfcc37f239ff",
+			"name": "Редактирование персонального события",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/updatePersonal",
+			"time": 287,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				287
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c9ad131c-b68e-45e8-a39b-b6f3381b63db",
+			"name": "Удаление персонального события",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/removePersonal",
+			"time": 197,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				197
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "0ae3a443-d085-4da8-8406-d31759f6ec5d",
+			"name": "Создание персонального события 24часа",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/createPersonal",
+			"time": 240,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				240
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2dc64a73-5a58-421b-9952-d872f7c68324",
+			"name": "Получение расписания 2",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/events",
+			"time": 661,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				661
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "0427874c-5e28-4b1d-af16-89d1d2650b28",
+			"name": "Изменение цвета ЛС на не представленный в GUI",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/updatePersonal",
+			"time": 286,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				286
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fb531d02-af93-4136-8e86-fad389169963",
+			"name": "Изменение Названия ЛС",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/updatePersonal",
+			"time": 203,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				203
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "61ec7cdc-7e49-4eb9-8c39-a9529f0d69c5",
+			"name": "Изменение ЛС название более 40символов",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/updatePersonal",
+			"time": 79,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				79
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b14a1ed9-cf81-4a25-b217-d0d50d126bee",
+			"name": "Получение расписания 3",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/events",
+			"time": 726,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				726
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f885b702-6e7c-4a4d-af3b-fb5887d1f6d4",
+			"name": "Удаление персонального события 2",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/removePersonal",
+			"time": 183,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				183
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1bf459d5-bf82-4b29-97e3-37625d2d0ae3",
+			"name": "Создание персонального события 3",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/createPersonal",
+			"time": 181,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				181
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1522addc-91b5-4828-8c20-df932f1b546e",
+			"name": "Изменение даты ЛС с будущей на прошедшую",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/updatePersonal",
+			"time": 234,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				234
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "5df544d7-9946-4241-b268-b0a0b2be4cf0",
+			"name": "Удаление персонального события 3",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/removePersonal",
+			"time": 172,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				172
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "9bedcaa9-f426-4521-8a69-14cca2d3a1d5",
+			"name": "Создание персонального события без Названия",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/createPersonal",
+			"time": 76,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				76
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "db74aaff-a7b9-4685-aa75-7560678853b1",
+			"name": "Создание персонального события прошлом",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/createPersonal",
+			"time": 203,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				203
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "70a92b9c-ba7e-41e5-9b50-5faf4e090083",
+			"name": "Удаление прошедшего ЛС",
+			"url": "https://api-teachers.skyeng.ru/v2/schedule/removePersonal",
+			"time": 165,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				165
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 5073,
+	"collection": {
+		"requests": [
+			{
+				"id": "816c6b97-e479-4b15-bb3e-870fb22efd5f",
+				"method": "POST"
+			},
+			{
+				"id": "f458eed6-9d40-4102-a64a-e82caa8a4bad",
+				"method": "POST"
+			},
+			{
+				"id": "2ad07d06-667b-4b5d-b755-bfcc37f239ff",
+				"method": "POST"
+			},
+			{
+				"id": "c9ad131c-b68e-45e8-a39b-b6f3381b63db",
+				"method": "POST"
+			},
+			{
+				"id": "0ae3a443-d085-4da8-8406-d31759f6ec5d",
+				"method": "POST"
+			},
+			{
+				"id": "2dc64a73-5a58-421b-9952-d872f7c68324",
+				"method": "POST"
+			},
+			{
+				"id": "0427874c-5e28-4b1d-af16-89d1d2650b28",
+				"method": "POST"
+			},
+			{
+				"id": "fb531d02-af93-4136-8e86-fad389169963",
+				"method": "POST"
+			},
+			{
+				"id": "61ec7cdc-7e49-4eb9-8c39-a9529f0d69c5",
+				"method": "POST"
+			},
+			{
+				"id": "b14a1ed9-cf81-4a25-b217-d0d50d126bee",
+				"method": "POST"
+			},
+			{
+				"id": "f885b702-6e7c-4a4d-af3b-fb5887d1f6d4",
+				"method": "POST"
+			},
+			{
+				"id": "1bf459d5-bf82-4b29-97e3-37625d2d0ae3",
+				"method": "POST"
+			},
+			{
+				"id": "1522addc-91b5-4828-8c20-df932f1b546e",
+				"method": "POST"
+			},
+			{
+				"id": "5df544d7-9946-4241-b268-b0a0b2be4cf0",
+				"method": "POST"
+			},
+			{
+				"id": "9bedcaa9-f426-4521-8a69-14cca2d3a1d5",
+				"method": "POST"
+			},
+			{
+				"id": "db74aaff-a7b9-4685-aa75-7560678853b1",
+				"method": "POST"
+			},
+			{
+				"id": "70a92b9c-ba7e-41e5-9b50-5faf4e090083",
+				"method": "POST"
+			}
+		]
+	}
+}
