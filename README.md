@@ -62,7 +62,7 @@
 ***Задача №1 Работа с инструметом pgAdmin***
 
 ***Задача №2 получение информации из БД с помощью запросов различной сложности*** 
-><a href="https://oxidized-arithmetic-ac0.notion.site/ef6c5c9ad0dc42fe95272f43afe09971">Ссылка на проект Курсовая работа2</a>
+><a href="https://oxidized-arithmetic-ac0.notion.site/ef6c5c9ad0dc42fe95272f43afe09971">Ссылка на проект Работа с БД</a>
 
 
 
